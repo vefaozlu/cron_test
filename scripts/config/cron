@@ -1,0 +1,6 @@
+* * * * * /root/Projects/exact_token/scripts/shell/fetch.sh
+* * * * * sleep 10; /root/Projects/exact_token/scripts/shell/fetch.sh
+* * * * * sleep 20; /root/Projects/exact_token/scripts/shell/fetch.sh
+* * * * * sleep 30; /root/Projects/exact_token/scripts/shell/fetch.sh
+* * * * * sleep 40; /root/Projects/exact_token/scripts/shell/fetch.sh
+* * * * * sleep 50; /root/Projects/exact_token/scripts/shell/fetch.sh
